@@ -1,33 +1,18 @@
-# This is a large heading
-## This is a smaller heading
-And as **imagination** bodies forth,
+# Shi Wen
+## Data Scientist, Biofourmis, Singapore
 
-The forms of things *unknown*, the poet's pen,
+### About me
+**I am interested in processing biomedical data and build AI solutions for them.**
 
-Turns them to shapes and gives to airy nothing,
+The current projects I am focusing on includes *arrythmia detection and classification*, *Noninvasive potassium detection though Single-lead ECG*, PPG data precessing, etc.
 
-A local *habitation* and a **name**.
-
-- This is
-- an unordered
-- list
-1. This is
-2. an ordered
-3. list
-
-Here is `some code` in the middle of a sentence.
-```
-This is
-a block
-of code
-```
-Here is how you make [a link](https://www.wikipedia.org/).
-
-This is an image (inline-style):
-![Image](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Example Image")
+Previously, I have been working on
+- acoustic signal to build automatic *wheeze detection* algorithm and *sleep apnea detection* algorithm;
+- Magnetic Resounance Images to assess tumor progression
 
 
-image (Reference-style): 
-![alt text][logo]
+### Leisure
+I enjoy sporting during my spare time. I have completed 1 full-marathon and 2 helf-marathon.
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+### Contact
+You can reach me via [E-mail](wshi1989@gmail.com).
