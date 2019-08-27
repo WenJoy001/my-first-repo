@@ -18,15 +18,11 @@ of code
 ```
 Here is how you make [a link](https://www.wikipedia.org/).
 
-![This is an image.](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Example image")
+![This is an image (inline-style).](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Example image")
 
 nano README.md
 
 
-Here's our logo (hover to see the title text):
-
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 Reference-style: 
 ![alt text][logo]
