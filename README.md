@@ -15,4 +15,4 @@ Previously, I have been working on
 I enjoy sporting during my spare time. I have completed 1 full-marathon and 2 helf-marathon.
 
 ### Contact
-You can reach me via [E-mail](wshi1989@gmail.com).
+You can reach me via **E-mail**: wshi1989@gmail.com.
