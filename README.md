@@ -21,9 +21,6 @@ Here is how you make [a link](https://www.wikipedia.org/).
 This is an image (inline-style):
 ![Image](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Example image")
 
-nano README.md
-
-
 
 Reference-style: 
 ![alt text][logo]
