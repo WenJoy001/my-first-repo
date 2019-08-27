@@ -1,15 +1,20 @@
 # This is a large heading
 ## This is a smaller heading
 And as **imagination** bodies forth,
+
 The forms of things *unknown*, the poet's pen,
+
 Turns them to shapes and gives to airy nothing,
+
 A local *habitation* and a **name**.
+
 - This is
 - an unordered
 - list
 1. This is
 2. an ordered
 3. list
+
 Here is `some code` in the middle of a sentence.
 ```
 This is
@@ -22,7 +27,7 @@ This is an image (inline-style):
 ![Image](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Example image")
 
 
-Reference-style: 
+image (Reference-style): 
 ![alt text][logo]
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
