@@ -4,7 +4,7 @@
 ### About me
 **I am interested in processing biomedical data and build AI solutions for them.**
 
-The current projects I am focusing on includes *arrythmia detection and classification*, *Noninvasive potassium detection though Single-lead ECG*, PPG data precessing, etc.
+The current projects I am focusing on includes *arrythmia detection and classification*, *Noninvasive potassium detection though Standard or wearable ECG*, PPG data processing, etc.
 
 Previously, I have been working on
 - acoustic signal to build automatic *wheeze detection* algorithm and *sleep apnea detection* algorithm;
